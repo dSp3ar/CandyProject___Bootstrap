@@ -1,0 +1,56 @@
+html {
+    font-size: 62.5%;
+}
+
+body {
+    background-color: #fcc2d7;
+    font-family: Barlow, sans-serif;
+}
+
+nav, #nav_br {
+    font-size: 2.4rem;
+    font-weight: 200;
+    letter-spacing: 0.15rem;
+}
+
+#nav_br {
+    color: #f03e3e;
+}
+
+.navbar.scrolled {
+    background-color: #fff0f6b4 !important;
+    transition: 1s;
+}
+
+#hand {
+    width: 100%;
+}
+
+.sweet-headers h1 span {
+    color: red;
+}
+
+.our-imgs {
+    width: 100%;
+}
+
+.our-text {
+    font-size: 1.8rem;
+    color: #fff0f6;
+}
+
+.row {
+    margin-bottom: 10rem;
+}
+
+.display-4 {
+    font-size: calc(1.475rem + 2.7vw);
+}
+
+.display-5 {
+    font-size: calc(0.3rem + 2.7vw);
+}
+
+p {
+    font-size: calc(1.8vw) !important;
+}
